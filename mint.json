@@ -3,7 +3,8 @@
   "name": "Visitd Help",
   "logo": {
     "dark": "visitdlogo.svg",
-    "light": "visitdlogo.svg"
+    "light": "visitdlogo.svg",
+    "height": 40
   },
   "favicon": "visitdlogo.png",
   "colors": {
